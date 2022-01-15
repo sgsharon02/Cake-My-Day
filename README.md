@@ -2,6 +2,7 @@
 Bakery Shop Management System
 
 <img src="https://github.com/sgsharon02/Cake-My-Day/blob/main/images/cakemydaybg.png" alt="cakemyday">
+
 # ⚙️ Technology Used
 1. HTML5
 2. CSS3
@@ -36,12 +37,9 @@ Local Disc C: -> xampp -> htdocs -> 'cake-my-day'
 
 3. Open XAMPP Control Panel and Start 'Apache' and 'MySQL'
 
-4. Import Database
-
-  a. Open 'phpmyadmin' in your browser.
-
-  b. Create a Database.
-
-  c. Import the SQL file provided with this project.
+4. Import Database\
+a. Open 'phpmyadmin' in your browser.\
+b. Create a Database.\
+c. Import the SQL file provided with this project.
 
 5. Now, Open the project in your browser. It should run perfectly.
