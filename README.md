@@ -1,6 +1,7 @@
 # Cake-My-Day
 Bakery Shop Management System
 
+<img src="https://github.com/sgsharon02/Cake-My-Day/blob/main/images/cakemydaybg.png" alt="cakemyday">
 # ⚙️ Technology Used
 1. HTML5
 2. CSS3
