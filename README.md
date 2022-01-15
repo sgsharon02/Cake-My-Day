@@ -37,8 +37,10 @@ Local Disc C: -> xampp -> htdocs -> 'cake-my-day'
 
 4. Import Database
 
-a. Open 'phpmyadmin' in your browser
-b. Create a Database
-c. Import the SQL file provided with this project
+  a. Open 'phpmyadmin' in your browser.
 
-6. Now, Open the project in your browser. It should run perfectly.
+  b. Create a Database.
+
+  c. Import the SQL file provided with this project.
+
+5. Now, Open the project in your browser. It should run perfectly.
